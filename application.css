@@ -2290,7 +2290,9 @@ ul.store_tabs li.active a:hover{
 .stores_table_headers .pull-right .arrow-up{
     border-bottom-color: #ededed;
 }
-
+.store_btn {
+    background-color: #5099b6;    
+}
 .controls{
     background-color: #5099b6;
 }
