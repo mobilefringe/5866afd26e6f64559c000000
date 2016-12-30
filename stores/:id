@@ -156,7 +156,7 @@
     		$('.demo1').craftmap({
                 image: {
         			width: 840,
-    				height: 1221,
+    				height: 700,
     				name: 'imgMap'
     			},
     			map: {
