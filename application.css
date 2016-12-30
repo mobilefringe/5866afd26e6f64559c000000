@@ -2357,3 +2357,6 @@ ul.store_tabs li.active a:hover{
     text-overflow-multiline: ellipsis;
     position: relative;
 }
+.social_icon {
+    color: #5099b6;
+}
