@@ -2251,6 +2251,9 @@ td.stores_pin{
 .check_hours {
     color: #000;
 }
+.check_hours:hover {
+    color: #000;
+}
 #site_nav li button:focus{
     background-color: #e5f5fd;
 }
