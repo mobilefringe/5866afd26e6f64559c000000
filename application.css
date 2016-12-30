@@ -1072,11 +1072,9 @@ a.btn-prime {
 .hours_day{
     color:#616161;
 }
-
 .hours_hour{
 	color:#818181;
 }
-
 .hour_box{
     width: 100%;    
     background-color:#d2d2d2;
@@ -1084,12 +1082,10 @@ a.btn-prime {
     z-index: 999;
     font-family: futura_condensed;
 }
-
 .hour_box .hour_info {
     // padding: 40px 0 5px;
     height: 220px;
 }
-
 .hour_box .home_hours_info{
     padding: 0px 10px 0;
     margin: 10px 0 5px;
@@ -1098,7 +1094,6 @@ a.btn-prime {
     margin: 22px 0\9;
     font-family: inherit;
 }
-
 .hour_title{
     color: black;
     display:block;
@@ -1110,7 +1105,6 @@ a.btn-prime {
     // display: block;
     font-family: inherit;
 }
-
 .hour_info a {
     text-decoration: none;
 }
