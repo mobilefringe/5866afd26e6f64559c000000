@@ -275,7 +275,7 @@
             </div>
         </div>
     </div>
-    <div class="line_break">&nbsp;</div>
+    <div class="line_break"></div>
 
     <footer>
         <div class="bottom_nav trim_screen">
@@ -311,22 +311,16 @@
                         </form>
                     </div>
                     <div class="social_links_mobile visible-xs-block">
-                        <a href="" target="_blank">
+                        <a href="//www.facebook.com/tecumsehmallwindsor" target="_blank">
                             <i class="fa fa-facebook-official social_icon" aria-hidden="true"></i>
                         </a>
-                        <a href="" target="_blank">
+                        <a href="//twitter.com/tecumsehmall" target="_blank">
                              <i class="fa fa-twitter social_icon" aria-hidden="true"></i>    
                         </a>
-		                <a href="//www.pinterest.com/cornwallcentre/" target="_blank">
-		                    <i class="fa fa-pinterest social_icon" aria-hidden="true"></i>
-		                </a>
-		                <a href="//www.youtube.com/user/CornwallCentre" target="_blank">
+		                <a href="//www.youtube.com/channel/UCk6W7ocu-tzzFZgw7jMuYfw" target="_blank">
 		                    <i class="fa fa-youtube social_icon" aria-hidden="true"></i>
 	                    </a>
-		                <a href="//plus.google.com/113773191865855064312" target="_blank">
-		                    <i class="fa fa-google-plus-official social_icon" aria-hidden="true"></i>
-	                    </a>
-                        <a href="https://www.instagram.com/cornwallcentre/" target="_blank">
+                        <a href="//www.instagram.com/tecumsehmall" target="_blank">
                             <i class="fa fa-instagram social_icon" aria-hidden="true"></i>
                         </a>
                     </div>
