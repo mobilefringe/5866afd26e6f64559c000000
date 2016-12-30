@@ -106,7 +106,7 @@
                             <a href='/hours'>Shopping Hours</a>
                         </li>
                         <li class="mobile_menu_item">
-                            <a href='/pages/tecumseh-leasing'>Leasing</a>
+                            <a href='/pages/tecumseh-specialty-leasing'>Leasing</a>
                         </li>
                         <li class="mobile_menu_item">
                             <a href='/pages/tecumseh-mall-info'>Mall Info</a>
@@ -378,7 +378,7 @@
                                 <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/hours' target='_self'>Shopping Hours</a>
                                 <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
-                                <a class="site_map_submenu" href='/pages/cornwall-leasing' target='_self'>Leasing</a>
+                                <a class="site_map_submenu" href='/pages/tecumseh-specialty-leasing' target='_self'>Leasing</a>
                                 <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/pages/cornwall-mall-info' target='_self'>Mall Info</a>
                                 <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
