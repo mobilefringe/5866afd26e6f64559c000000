@@ -115,16 +115,7 @@
                             <a href='/pages/cornwall-accessibility'>Accessibility</a>
                         </li>        
                         <li class="mobile_menu_item">
-                          <a href='/pages/cornwall-community-wifi'>Community Relations</a>
-                        </li>
-                        <li class="mobile_menu_item">
                           <a href='/pages/cornwall-contact-us'>Contact Us</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                          <a href='/pages/cornwall-security'>Security</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                          <a href='/pages/cornwall-parking-at-cornwall-centre'>Parking Info</a>
                         </li>
                         <li class="mobile_menu_header" >
                             <a href='/posts' >BLOG</a>
@@ -201,16 +192,7 @@
                                 <a class="nav_a" href='/pages/cornwall-accessibility' target='_self'><span>Accessibility</span></a>                      
                             </li>
                             <li>
-                                <a class="nav_a" href='/pages/cornwall-community-wifi' target='_self'><span>Community Relations</span></a>              
-                            </li>
-                            <li>
                                 <a class="nav_a" href='/pages/cornwall-contact-us' target='_self'><span>Contact Us</span></a>                            
-                            </li>
-                            <li>
-                                <a class="nav_a" href='/pages/cornwall-security' target='_self'><span>Security</span></a>                                
-                            </li>
-                            <li>
-                                <a class="nav_a" href='/pages/cornwall-parking-at-cornwall-centre' target='_self'><span>Parking Info</span> </a>        
                             </li>
                         </ul>
                     </li>
