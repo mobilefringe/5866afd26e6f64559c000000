@@ -230,7 +230,6 @@ h8 {
 legend{
 	color:#000000;
 }
-
 .nav-tabs > .active > a{
     height:auto;
 	background-image:none;
@@ -240,7 +239,6 @@ legend{
     cursor: default;
 	border-radius:0px;
 }
-
 .nav-tabs > .active > a:hover {
 	height:41px;
 	background-image:none;
@@ -251,61 +249,46 @@ legend{
 	border-bottom-left-radius:0px;
 	border-bottom-right-radius:0px;
 }
-
 .trim_screen{
     margin: 0 auto;
     // padding: 0 10px;
     position: relative;
     max-width: 1005px;
 }
-
 .container_body{
     max-width:77%;    
     min-height: 450px;
 }
-
 #nav_right{
     position: absolute;
     right: 0px;
     top: -40px;
 }
-
 #nav_right a{
     color: black;
     text-decoration:underline;
 }
-
 #site_logo{
     position:relative;
     height:52px;
 }
-
-
 .nav_container{
     padding-bottom: 3px;    
 }
-
 #site_nav{
     position: relative;
-    height: 56px;
+    height: 83px;
 }
-
-
-#site_nav ul li ul li a:hover
-{
+#site_nav ul li ul li a:hover {
     color: black;
 }
-
 #site_nav hr{
     position: absolute;
     bottom: 0px;
 }
-
 .dropdown{
     position:relative;
 }
-
-
 #site_nav ul{
     position:absolute;
     top: 8px;
@@ -313,12 +296,10 @@ legend{
     margin-left:0px;
     list-style:none;
 }
-
 #site_nav li{    
     width:auto;
     float:left;
 }
-
 #site_nav li button{
     font-family: futura_condensed;
     height: auto;    
@@ -693,17 +674,14 @@ legend{
     background-size: 100% 55px;
     background-repeat: repeat-x;
 }
-
-ul.store_tabs{
+ul.store_tabs {
     position: absolute;
     right: 0px;  
     top: -50px;
 }
-
 ul.store_tabs li{
     margin: 0px;
 }
-
 ul.store_tabs li .arrow-down{
     width: 0; 
     height: 0; 
@@ -715,12 +693,10 @@ ul.store_tabs li .arrow-down{
     right: 10px;
     top: 10px
 }
-
 ul.store_tabs li a, 
 ul.store_tabs li a:hover,
 ul.store_tabs li.active a,
-ul.store_tabs li.active a:hover
-{
+ul.store_tabs li.active a:hover {
     font-family: futura_condensed;
     font-weight: 100;
     width: auto;
@@ -728,13 +704,10 @@ ul.store_tabs li.active a:hover
     border-radius: 0;
     padding: 5px 35px 5px 15px;
     background-color: #282828;
-    
 }
-
 .pin{
 	background-color:#00000;
 }
-
 .btn-nav {
   color: black;
   font-weight:normal;
@@ -744,11 +717,9 @@ ul.store_tabs li.active a:hover
   padding: 0 0 0 20px;
   border: none;
 }
-
 a.btn-nav {
     color:white;    
 }
-
 .btn-nav:hover,.btn-nav:focus,.btn-nav:active  {
     background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
 }
