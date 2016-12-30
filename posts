@@ -16,7 +16,7 @@
 </div>
 <script>
     $(document).ready(function(e){
-        // init(e);
+        init(e);
         function renderAll(){
             var blog = getBlogDataBySlug('cornwall-main');
             console.log(blog);
