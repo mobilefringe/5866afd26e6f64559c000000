@@ -2301,12 +2301,12 @@ ul.store_tabs li.active a:hover{
 .blogpost h1 a:hover {
     text-decoration: none;
 }
-.blogpost .back_to {
-    margin-bottom: 0;
-}
 .blogpost img {
     margin-bottom: 10px;
     max-width: 100%;
+}
+.blogpost .back_to {
+    margin-bottom: 0;
 }
 .blogpost h2 a {
     color: inherit;
