@@ -2282,12 +2282,12 @@ ul.store_tabs{
     width: auto;
 }
 
-// ul.store_tabs li a,
-// ul.store_tabs li a:hover,
-// ul.store_tabs li.active a,
-// ul.store_tabs li.active a:hover{
-//     background-color: #8ca67c;
-// }
+ul.store_tabs li a,
+ul.store_tabs li a:hover,
+ul.store_tabs li.active a,
+ul.store_tabs li.active a:hover{
+    background-color: #5099b6;
+}
 
 .stores_table_headers{
     background-color: #5099b6;
