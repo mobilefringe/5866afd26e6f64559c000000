@@ -335,6 +335,8 @@ legend{
 #site_nav ul.dropdown-menu li{
     width: 100%;
     display: block;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 11pt;
 }
 #site_nav ul.dropdown-menu>li>a {
     margin: 3px;
