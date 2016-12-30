@@ -88,12 +88,18 @@ body{
 body:after {
   content: url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/png/1478472594000/close.png) url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/gif/1478472594000/loading.gif) url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/png/1478472594000/prev.png) url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/png/1478472594000/next.png);
 }
-p{
+p { 
     font-family: futura_medium_light, futura_medium_light_ie;
     font-size: 1.2em;
     line-height: 1.3em;
 }
-
+a {
+    color: inherit;
+}
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
 .header {
     background-color: white;
     padding:0;
@@ -2241,6 +2247,9 @@ td.stores_pin{
     color: #5099b6;
     font-family: futura_condensed;
     font-size: 18pt;
+}
+.check_hours {
+    color: #000;
 }
 #site_nav li button:focus{
     background-color: #e5f5fd;
