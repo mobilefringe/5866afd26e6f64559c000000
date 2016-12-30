@@ -1367,7 +1367,7 @@ hr{
     
 }
 #_zi_icon {
-    background: transparent url(//www.tecumsehmall.com/assets/icons.png) -8px -8px no-repeat;
+    background: transparent url(//www.tecumsehmall.com/assets/icons.png) -8px -8px no-repeat !important;
 }
 /* *** */
 
