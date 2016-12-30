@@ -2298,7 +2298,21 @@ ul.store_tabs li.active a:hover{
 .mobile_header .background_bar{
     background-color: #5099b6;
 }
-
+.blogpost h1 a:hover {
+    text-decoration: none;
+}
+.blogpost img {
+    margin-bottom: 10px;
+    max-width: 100%;
+}
+.blogpost h2 a {
+    color: inherit;
+    text-decoration: none;
+}
+.blogpost_content{
+    max-height:120px;
+    overflow:hidden;
+}
 .blog_preview p.preview_text, .blogpost_content{
     max-height: 75px;
     overflow: hidden;
