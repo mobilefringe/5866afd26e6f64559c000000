@@ -98,7 +98,7 @@ a {
 }
 a:hover {
     text-decoration: none;
-    color: inherit;
+    // color: inherit;
 }
 .header {
     background-color: white;
