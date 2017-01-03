@@ -595,6 +595,8 @@ legend{
 	color:white;
 }
 .stores_table_headers p {
+    display: inline-block;
+    width: 68%;
     font-size: inherit;
     font-family: futura_medium;
 }
