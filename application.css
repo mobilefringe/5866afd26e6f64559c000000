@@ -596,7 +596,6 @@ legend{
 }
 .stores_table_headers p {
     font-size: inherit;
-    font-weight: bold;
     font-family: futura_medium;
 }
 .stores_table_headers .pull-right {
@@ -1898,6 +1897,9 @@ td.stores_pin{
         text-align: left;
         height: auto;
         padding: 5px;
+    }
+    .stores_table_headers {
+        height: auto;
     }
     .stores_row {
         line-height: 1.1em;
