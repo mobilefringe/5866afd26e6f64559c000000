@@ -1831,6 +1831,10 @@ td.stores_pin{
         margin-left: 0;
         margin-right: 0;
     }
+    .long_feature_label {
+        padding-top: 0;
+        font-size: 1.4em;
+    }
     .right_box{
         width: 100%;
     }
@@ -1901,9 +1905,9 @@ td.stores_pin{
     .store_row_name {
         width: 74%;
     }
+    
     .store_details h1.store_page {
         font-size: 30px;
-        
     }
     .accordion-heading h2.job_title, 
     .accordion-heading h2.job_close_date{
