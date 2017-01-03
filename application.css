@@ -630,7 +630,7 @@ legend{
 
 .store_row_name {
     padding-left: 12px;
-    display: inline;
+    display: inline-block;
     color: gray;
     width: 60%;
 }
