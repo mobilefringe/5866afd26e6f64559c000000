@@ -1895,6 +1895,9 @@ td.stores_pin{
         height: auto;
         padding: 5px;
     }
+    .stores_row {
+        line-height: 1.2em;
+    }
     .store_row_name a {
         font-size: 18px;
         font-weight: bold;
