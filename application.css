@@ -1898,7 +1898,7 @@ td.stores_pin{
         margin-left: -10px;
         margin-right: -10px;    
     }
-    .store_row_name {
+    .stores_row {
         width: 74%;
     }
     .store_details h1.store_page {
@@ -1912,12 +1912,8 @@ td.stores_pin{
         padding-bottom: 5px;
         padding-top: 5px;
     }
-    
     .accordion-inner img {
         max-width: 100%;
-    }
-    .stores_row {
-        width: auto;
     }
     .stores_row_phone {
         padding-right: 0;
