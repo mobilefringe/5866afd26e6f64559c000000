@@ -630,8 +630,9 @@ legend{
 
 .store_row_name {
     padding-left: 12px;
-    display: inline;
-    color:gray;   
+    display: inline-block;
+    color: gray;
+    width: 70%;
 }
 
 .store_row_name a{
