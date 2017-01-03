@@ -595,6 +595,7 @@ legend{
 	color:white;
 }
 .stores_table_headers p {
+    margin-bottom: 0;
     display: inline-block;
     width: 68%;
     font-size: inherit;
