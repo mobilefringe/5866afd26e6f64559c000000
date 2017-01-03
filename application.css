@@ -456,6 +456,7 @@ legend{
 .bottom_nav .nav_site_map .site_map_cols {
     column-count: 2;
     -moz-column-count: 2;
+    -webkit-column-count: 2;
 }
 
 // .bottom_nav .nav_site_map .nav_site_map_link{
