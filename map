@@ -14,9 +14,9 @@
 </div>
 <div class="mobile_line_break"></div>
 <script>
-    $(document).ready(function(e){
-        init(e);
+    $(document).ready(function(){
         function renderAll(){
+            init();
             var stores = getStoresList();
             renderStoreList('#store_select_container','#store_select_template', stores, "stores");
             $(".mapper").prepend("<option selected>Select a Store</option>");
