@@ -597,6 +597,7 @@ legend{
 .stores_table_headers p {
     font-size: inherit;
     font-weight: bold;
+    font-family: futura_medium;
 }
 .stores_table_headers .pull-right {
     padding-top: 3px;
