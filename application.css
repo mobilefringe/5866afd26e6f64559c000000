@@ -1743,7 +1743,10 @@ td.stores_pin{
     .feature_boxes{
         width: 70%;
     }
-    
+    .long_feature_label {
+        padding-top: 0;
+        font-size: 1.4em;
+    }
     .flexslider {
         margin-left: -20px;
         margin-right: -20px;
@@ -1830,10 +1833,6 @@ td.stores_pin{
     .feature_links {
         margin-left: 0;
         margin-right: 0;
-    }
-    .long_feature_label {
-        padding-top: 0;
-        font-size: 1.4em;
     }
     .right_box{
         width: 100%;
