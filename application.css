@@ -594,7 +594,9 @@ legend{
 	background-color: black;
 	color:white;
 }
-
+.stores_table_headers p {
+    font-size: inherit;
+}
 .stores_table_headers .pull-right {
     padding-top: 3px;
     padding-right: 10px;
