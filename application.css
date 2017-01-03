@@ -1812,7 +1812,6 @@ td.stores_pin{
         // padding: 0 10px;
         padding: 0;
     }
-    
     .main_content {
         margin-left: 0;
         margin-right: 0;
@@ -1828,7 +1827,6 @@ td.stores_pin{
         left: 10px;
         max-width: 50%;
     }
-    
     .feature_links {
         margin-left: 0;
         margin-right: 0;
@@ -1850,31 +1848,14 @@ td.stores_pin{
     .hour_box .check_hours {
         color: #000;
     }
-    // .hour_box .feature_label {
-    //     padding: 13px 20px 0;
-    //     top: -10px;
-    // }
-    // .hour_box div{
-    //     padding-top: 25px;
-    // }
     .hour_box p{
         margin: 10px 0 0;
         padding-left: 20px;
         font-size:1.5em;
     }
-    
     .hour_box p a {
         color: inherit;
     }
-    
-    // .hour_box .check_hours {
-    //     padding-left: 20px;
-    // }
-    // .feature_label{
-    //     font-size:1.2em;
-    //     padding-top: 7px;
-    // }
-
     .right_feature_box{
         margin: 0;
         width: 100%;
@@ -1885,11 +1866,6 @@ td.stores_pin{
     .hour_box p{
         font-size: 1.4em;
     }
-    
-    // .check_hours{
-    //     font-size: 1.25em;
-    // }
-    
     .feature_boxes{
         width: 100%;
         padding-top:7px;
@@ -1914,17 +1890,17 @@ td.stores_pin{
         height: auto;
         padding: 5px;
     }
-    
     .store_row_name a {
         font-size: 18px;
         font-weight: bold;
     }
-    
     .store-list {
         margin-left: -10px;
         margin-right: -10px;    
     }
-    
+    .store_row_name {
+        width: 74%;
+    }
     .store_details h1.store_page {
         font-size: 30px;
         
