@@ -595,9 +595,9 @@ legend{
 	color:white;
 }
 .stores_table_headers p {
-    margin-bottom: 0;
+    // margin-bottom: 0;
     display: inline-block;
-    width: 68%;
+    width: 65%;
     font-size: inherit;
     font-family: futura_medium;
 }
@@ -1903,6 +1903,9 @@ td.stores_pin{
     }
     .stores_table_headers {
         height: auto;
+    }
+    .stores_table_headers p {
+        width: 65%;
     }
     .stores_row {
         line-height: 1.1em;
