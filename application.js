@@ -9,8 +9,6 @@ function init() {
         }
     });  
     
-
-
     renderHomeHours();
     
     var prop_details = getPropertyDetails();
