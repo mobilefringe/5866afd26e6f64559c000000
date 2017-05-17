@@ -71,5 +71,5 @@
             });
         }
         loadMallData(renderAll);
-    })
+    });
 </script>
