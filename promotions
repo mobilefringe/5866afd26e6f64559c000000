@@ -72,7 +72,6 @@
                     }     
                 } 
             });
-            console.log(mall_published_promos);
             if(mall_published_promos.length > 0){
                 renderPromotions("#mall_promo_container","#mall_promo_template", mall_published_promos);
             }
