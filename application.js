@@ -406,7 +406,9 @@ function renderPromotions(container, template, collection){
         }
         else{
             val.store_name = "Tecumseh Mall";
-            // val.image_url = "";
+            val.image_url = val.event_image_url_abs;
+            if(val.image_url.indexOf('missing.png') > 0){
+                val.image_url = "//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1495133900000/tecumseh.png";
         }
         
         if(val.promo_image_url_abs.indexOf('missing.png') > 0){
