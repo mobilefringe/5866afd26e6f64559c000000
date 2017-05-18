@@ -319,19 +319,22 @@ function renderEvents(container, template, collection){
         }
         else {
             val.store_name = "Tecumseh Mall";
-            // val.event_image_url = val.event_image_url_abs;
-        }
-        if(val.event_image_url.indexOf('missing.png') > 0){
-            val.event_image_url = val.logo;
-        }
-        else{
+            val.image_url = val.event_image_url_abs;
             if(val.image_url.indexOf('missing.png') > 0){
-                val.logo = val.image_url;
-            }
-            else{
-                val.logo = "";
+                val.image_url = "//codecloud.cdn.speedyrails.net/sites/586c10926e6f6440cb000000/image/jpeg/1495128383000/quinte_default.jpg";
             }
         }
+        // if(val.event_image_url.indexOf('missing.png') > 0){
+        //     val.event_image_url = val.logo;
+        // }
+        // else{
+        //     if(val.image_url.indexOf('missing.png') > 0){
+        //         val.logo = val.image_url;
+        //     }
+        //     else{
+        //         val.logo = "";
+        //     }
+        // }
         var show_date = moment(val.show_on_web_date);
         var start = moment(val.start_date).tz(getPropertyTimeZone());
         var end = moment(val.end_date).tz(getPropertyTimeZone());
