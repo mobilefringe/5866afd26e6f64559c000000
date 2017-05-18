@@ -4,7 +4,7 @@
             <div class="pop_up_form_container">
                 <div class="pop_up_form">
                     <h4 class="popup_header1">JOIN OUR NEWSLETTER</h4>
-                    <form action=http://mobilefringe.createsend.com/t/d/s/ykbc/ method="post" id="subForm">
+                    <form action=http://mobilefringe.createsend.com/t/d/s/ykbc/ method="post" id="popupForm">
                         <label for="name_pop_up">Name</label>
                         <input id="name_pop_up" type="text" name=cm-name>
                         
@@ -16,12 +16,12 @@
                         
                         <label>
                             <label for="agree_terms"></label>
-                            <input type="checkbox" class="info_check" id="agree_terms" /> I agree to receive newsletters from Tecumseh Mall
+                            <input type="checkbox" class="info_check" id="agree" /> I agree to receive newsletters from Tecumseh Mall
                         </label>
                         <br /> 
                         <button class="btn btn-success"/>Subscribe</button>                      
                         <br /><br/>
-                        <span id="success_subscribe">Thank you for subscribing to our newsletter.</span>
+                        <span id="success">Thank you for subscribing to our newsletter.</span>
                     </form>
                 </div>
             </div>
