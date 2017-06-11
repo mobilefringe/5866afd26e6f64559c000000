@@ -206,7 +206,7 @@ a:hover {
 }
 
 .top_nav{
-    background-image:url(PRIMARY_NAV_IMAGE);
+    // background-image:url(PRIMARY_NAV_IMAGE);
     height:auto;    
     border: none;
     position:relative;
@@ -244,7 +244,7 @@ a:hover {
     appearance: none;
     line-height:1em;
     background-color: #e0e0e0;
-    background: url(//www.mallmaverick.com/system/site_images/photos/000/000/773/original/arrow_down.png?1381269994) no-repeat 82% 50% #ddd;
+    background: url(//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497038985000/arrow_down.png) no-repeat 82% 50% #ddd;
     background-size: 14px 10px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
@@ -253,7 +253,7 @@ a:hover {
 
 .brand_nav .select_locale_parent select{
    width: 150px;
-   background: url(//www.mallmaverick.com/system/site_images/photos/000/000/773/original/arrow_down.png?1381269994) no-repeat 80px 50% #ddd;
+   background: url(//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497038985000/arrow_down.png) no-repeat 80px 50% #ddd;
    background-size:14px 10px;
 }
 
@@ -263,16 +263,13 @@ a:hover {
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
 	border-top: 5px solid black;
-    
     position: absolute;
     z-index:910;
     right:30px;
 }
 
-
-
-.content_area{
-    background-image:url(BACKGROUND_IMAGE);
+.content_area {
+    // background-image:url(BACKGROUND_IMAGE);
     background-color: #D6D6D6;
 }
 
@@ -429,8 +426,6 @@ legend{
     border: solid 1px gray;
     border-radius: 5px;
 }
-
-
 #site_nav ul.dropdown-menu li{
     width: 100%;
     display: block;
@@ -444,23 +439,18 @@ legend{
 	border-top-color: #DEDEDE; 
 	background-color: #DEDEDE;
 }
-
 .hours_bottom_nav span2{
     width:18%
 }
-
 .bottom_nav{
     padding: 0px;
     padding-top: 15px;
 	border: none; 
 	background-color: #f6f6f6;    
-    
 }
-
 .bottom_nav .container-fluid{
     padding: 0px 15px 15px;
 }
-
 .bottom_nav label{
     color: black;
     font-size:1.5em;
@@ -471,13 +461,11 @@ legend{
     float:left;
     margin-right:10px;
 }
-
 .bottom_nav .social_box{
     float:left;
     margin-right:2%;
     max-width: 300px;
 }
-
 .social_icon {
     margin-right: 5px;
     color: #000;
@@ -488,7 +476,6 @@ legend{
     margin-top: 20px;
     color: black;
 }
-
 .newsletter_box span {
     font-weight: lighter;
     padding: 5px 0px 10px;
@@ -496,7 +483,6 @@ legend{
     color: gray;
     font-size: 0.8em;
 }
-
 .newsletter_box #fieldEmail {
     margin: 0;
     margin-bottom: 9px;
@@ -517,10 +503,8 @@ legend{
     font-weight: normal;
     vertical-align: middle;
 }
-
 .newsletter_box .btn {
     border-color: rgba(0,0,0,0.15) rgba(0,0,0,0.15) rgba(0,0,0,0.25);
-
     display: inline-block;
     padding: 4px 14px;
     margin-bottom: 0;
@@ -539,11 +523,9 @@ legend{
     box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
     font-family: inherit;
 }
-
 #success_subscribe{
     display: none;
 }
-
 .bottom_nav .nav_site_map{
     color: #64676c;
     float:left;
@@ -551,7 +533,6 @@ legend{
     font-size:.9em;    
     // width: 30%;
 }
-
 .bottom_nav .nav_site_map .site_map_cols {
     column-count: 2;
     -moz-column-count: 2;
@@ -579,7 +560,6 @@ legend{
     width: auto;
     margin-right: 0;
     float: none;
-    
 }
 .bottom_nav .nav_site_map .nav_sitemap_item a {
     color: #64676c;   
@@ -598,8 +578,6 @@ legend{
     text-align: left;
     padding: 3px 0 3px 23px;
 }
-
-
 .bottom_nav_header{
 	color:white;
     font-weight:bold;
@@ -607,11 +585,9 @@ legend{
 .bottom_nav_list{
     color:white;
 }
-
 .rounded-corners{
 	background-color:#E0E0E0;
 }
-
 .footer {
     background-color:black; 
 	color:white;    
@@ -841,7 +817,7 @@ a.btn-nav {
     color:white;    
 }
 .btn-nav:hover,.btn-nav:focus,.btn-nav:active  {
-    background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
+    // background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
 }
 
 .btn-nav a span {
@@ -865,9 +841,7 @@ a.btn-nav {
     height: 30px;
 }
 
-/*
-  Button Prime
-*/
+/* Button Prime */
 a.btn-prime {
   background-color: #b4b4b4;
   color:#FFFFFF;
@@ -878,7 +852,7 @@ a.btn-prime {
 }
 
 .nav-bar{
-   background-image:url(PRIMARY_NAV_IMAGE);
+//   background-image:url(PRIMARY_NAV_IMAGE);
 }
 
 .alphabet_bg{
@@ -895,12 +869,11 @@ a.btn-prime {
 
 .btn-prime:hover,.btn-prime:focus,.btn-prime:active,.btn-secondary:hover,.btn-secondary:focus,.btn-secondary:active  {
 	background-color:white;
-    background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
+    // background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
 }
 
 .btn-secondary {
     background-color: transparent;
-    // background-image:url("//www.mallmaverick.com/primary_nav_images/original/missing.png");
     color: #000;
     font-family: inherit;
     margin: 2px;
@@ -915,7 +888,7 @@ a.btn-prime {
 
 .btn-social {
   color:#616161;
-  background-image:url(SECONDARY_BUTTON_IMAGE);
+//   background-image:url(SECONDARY_BUTTON_IMAGE);
    -moz-box-shadow: -1px 1px 2px 0px #1D1D1D;
   -webkit-box-shadow: -1px 1px 2px 0px #1D1D1D;
    box-shadow: -1px 1px 2px 0px #1D1D1D;
@@ -923,38 +896,30 @@ a.btn-prime {
 
 .btn-social:hover {
   color:#616161;
-  background-image:url(SECONDARY_BUTTON_SELECTED_IMAGE);
+//   background-image:url(SECONDARY_BUTTON_SELECTED_IMAGE);
 }
-
-
 
 .btn-3{
   color:#616161;
-  background-image:url(SECONDARY_BUTTON_IMAGE); 
+//   background-image:url(SECONDARY_BUTTON_IMAGE); 
    -moz-box-shadow: -1px 1px 2px 0px #1D1D1D;
   -webkit-box-shadow: -1px 1px 2px 0px #1D1D1D;
    box-shadow: -1px 1px 2px 0px #1D1D1D; 
 }
-
 .btn-3:hover{
   color:#616161;
-  background-image:url(SECONDARY_BUTTON_SELECTED_IMAGE);  
+//   background-image:url(SECONDARY_BUTTON_SELECTED_IMAGE);  
 }
-
 .caret{
     border-top: 5px solid #616161;
     color:#616161;
 }
-
 .connect_with_us{
    color:#42245C;   
 }
-
-
 .btn-social:hover {
     border-color:#1F090B;
 }
-
 .content_title{
 	color:#79151C;
 }
@@ -978,17 +943,13 @@ a.btn-prime {
 .custom_dropdown .dropdown-menu li > p {
 	color:#000000;
 }
-
 .custom_dropdown .dropdown-menu .arrow,
 .custom_dropdown .dropdown-menu .arrow:after {
   border-color: transparent;
 }
-
-
 .custom_dropdown .dropdown-menu.bottom .arrow {
   border-bottom-color: #E0DAC4;
 }
-
 .custom_dropdown .dropdown-menu.bottom .arrow:after {
   border-bottom-color: rgba(0, 0, 0, 0.25);
 }
@@ -997,20 +958,16 @@ a.btn-prime {
 .accordion {
     margin-bottom: 20px;
 }
-
 .accordion-heading{
     height: 75px;
 }
-
 .accordion-heading .accordion-toggle {
     display: block;
     padding: 8px 15px;
 }
-
 .accordion-toggle {
     cursor: pointer;
 }
-
 .accordion-group h2{
     margin: 0;
     padding: 0 0 15px 0;
@@ -1020,28 +977,23 @@ a.btn-prime {
     font-weight:lighter;
     color:#f57b2b;
 }
-
 .accordion-heading h2.job_title {
     padding: 10px 0 15px 0;
     color: #000;
 }
-
 .accordion-heading h2.job_title .store_name {
     text-transform: uppercase;
 }
-
 .accordion-heading h2.job_close_date {
     padding-top: 0;
     color: #ff0000;
     text-transform: uppercase;
 }
-
 .accordion-heading font{
     line-height:1.25em;
     text-align:right;
     float:right;
 }
-
 .accordion-group { 
     margin-bottom: 20px;
     padding-top: 2px;
@@ -1050,12 +1002,10 @@ a.btn-prime {
 	box-shadow: none;
     border-radius: 0;
 }
-
 .accordion-inner {
     padding: 9px 15px;
     border: 0px;
 }
-
 .accordion-inner ul {
     margin: 0 0 10px 25px;
     padding: 0;
@@ -1070,7 +1020,6 @@ a.btn-prime {
     color: inherit;
     text-decoration: none;    
 }
-
 .accordion-inner a:hover {
     text-decoration: none;    
 }
@@ -1079,7 +1028,6 @@ a.btn-prime {
     border:none;
 	background-color: transparent;
 }
-
 .edit_btn{
     position: absolute;
     top:0px;
@@ -1243,7 +1191,7 @@ a.btn-prime {
 }
 
 .flex-direction-nav a{
-    background: url(/system/site_images/photos/000/000/098/original/bg_direction_nav.png?1365699774) no-repeat scroll 0 0 transparent;
+    background: url(//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497039147000/bg_direction_nav.png) no-repeat scroll 0 0 transparent;
     height: 50px;
 }
 
