@@ -199,6 +199,11 @@ a:hover {
     text-decoration: none;
     // color: inherit;
 }
+
+.yield {
+    visibility: hidden;
+}
+
 .header {
     background-color: white;
     padding:0;
