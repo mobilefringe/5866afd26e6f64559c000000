@@ -61,9 +61,6 @@ function renderFeatureItems(feature_item, feature_item_template, feature_items){
     var template_html = $(feature_item_template).html();
     Mustache.parse(template_html); 
     $.each(feature_items, function(key, val) {
-        // if (val.description.length  >= 100) {
-        //     val.description = val.description.substring(0,99) + "...";
-        // }
         if(val.url == "" || val.url === null){
            val.css = "style=cursor:default;";
            val.noLink = "return false";
@@ -214,7 +211,6 @@ function renderJobDetails(container, template, collection){
         }
         else{
             val.store_name = "Tecumseh Mall";
-            
         }
         
         var show_date = moment(val.show_on_web_date);
@@ -251,17 +247,7 @@ function renderEvents(container, template, collection){
                 val.image_url = "//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1495133900000/tecumseh.png";
             }
         }
-        // if(val.event_image_url.indexOf('missing.png') > 0){
-        //     val.event_image_url = val.logo;
-        // }
-        // else{
-        //     if(val.image_url.indexOf('missing.png') > 0){
-        //         val.logo = val.image_url;
-        //     }
-        //     else{
-        //         val.logo = "";
-        //     }
-        // }
+
         var show_date = moment(val.show_on_web_date);
         var start = moment(val.start_date).tz(getPropertyTimeZone());
         var end = moment(val.end_date).tz(getPropertyTimeZone());
@@ -455,7 +441,7 @@ function renderStoreDetails(container, template, collection, slug){
     item_list.push(collection);
     $.each( item_list , function( key, val ) {
         if ((val.store_front_url).indexOf('missing.png') > -1){
-            val.alt_store_front_url = "//www.mallmaverick.com/photos/original/missing.png";
+            val.alt_store_front_url = "//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497620335000/tecumseh_logo.png";
         } else {
             val.alt_store_front_url = getImageURL(val.store_front_url); 
         }
@@ -476,28 +462,6 @@ function renderStoreDetails(container, template, collection, slug){
             val.phone_show = "display:none";
         }
         
-        if (val.twitter != null && val.twitter.length > 0){
-            val.twitter_show = "display:inline-block";
-        }
-        else{
-            val.twitter_show = "display:none";
-        }
-        
-        if (val.twitter_show == "display:none" && val.phone_show == "display:none" ){
-            val.show_line = "display:none";
-        }
-        else{
-            val.show_line = "display:block";
-        }
-        if((val.twitter == null || val.twitter == "") && (val.facebook == "" || val.facebook == null)){
-            val.hide_social = "display:none;";
-        }
-        if (val.facebook != null && val.facebook.length > 0){
-            val.facebook_show = "display:inline-block";
-        }
-        else{
-            val.facebook_show = "display:none";
-        }
         var rendered = Mustache.render(template_html,val);
         item_rendered.push(rendered);
     });
@@ -546,7 +510,7 @@ function renderPosts(container, template, collection){
     Mustache.parse(template_html);   // optional, speeds up future uses
     $.each( collection , function( key, val ) {
         if (val.image_url.indexOf('missing.png') > -1) {
-            val.image_url = "//www.mallmaverick.com/system/sites/logo_images/000/000/023/original/mall_logo.png?1381508700";
+            val.image_url = "//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497620335000/tecumseh_logo.png";
         } else {
             val.image_url = val.image_url;
         }
@@ -566,7 +530,7 @@ function renderPostDetails(container, template, collection){
     var template_html = $(template).html();
     $.each( collection , function( key, val ) {
         if (val.image_url.indexOf('missing.png') > -1) {
-            val.image_url = "//www.mallmaverick.com/system/sites/logo_images/000/000/023/original/mall_logo.png?1381508700";
+            val.image_url = "//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497620335000/tecumseh_logo.png";
         } else {
             val.image_url = val.image_url;
         }
@@ -607,7 +571,7 @@ function show_png_pin(trigger, map){
 					<div class="text">\
 					<strong>'+ selectedOptionName + '</strong>\
 				</div>\
-				<img src="//www.mallmaverick.com/system/sites/map_markers/000/000/027/original/map_marker.png?1417461836" width="45px" height="59px" alt="marker" />\
+				<img src="//codecloud.cdn.speedyrails.netsites/5866afd26e6f64559c000000/image/png/1497039299000/map_marker.png" width="45px" height="59px" alt="marker" />\
 				</div>\
 			</div>'
 			]
