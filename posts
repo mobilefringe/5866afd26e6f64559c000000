@@ -19,7 +19,8 @@ $(document).ready(function(e){
     init(e);
     function renderAll(){
         var blog = getBlogDataBySlug('tecumseh-main');
-        var posts = blog.posts.reverse();
+        console.log(blog)
+        var posts = blog.posts.sortBy(function(o){ return moment(o.publish_date) }).reverse();
         renderPosts('#blog_container', '#blog_template', posts);
         
         setTimeout(function() {
