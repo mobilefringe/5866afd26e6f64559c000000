@@ -276,12 +276,10 @@ function renderEventDetails(container, template, collection){
             val.store_name = store_details.name;
             if (store_details.store_front_url_abs.indexOf('missing.png') > -1){
                 val.image_url = "";
-            }
-            else{
+            } else {
                 val.image_url = store_details.store_front_url_abs;
             }
-        }
-        else{
+        } else {
             val.store_name = "Tecumseh Mall";
             val.image_url = "";
         }
@@ -295,8 +293,7 @@ function renderEventDetails(container, template, collection){
         var end = moment(val.end_date).tz(getPropertyTimeZone());
         if (start.format("DMY") == end.format("DMY")){
             val.dates = start.format("MMM D")
-        }
-        else{
+        } else {
             val.dates = start.format("MMM D") + " - " + end.format("MMM D")
         }
         var rendered = Mustache.render(template_html,val);
@@ -486,15 +483,15 @@ function renderStoreListCatetories(container, template, category_list,stores){
         var category_name = category.name;
         var current_id = category.id;
         var count = 0;
-        
         $.each( stores , function( i, store ) {
-            var store_category = store.categories;
-            var a = store.categories.indexOf(category_id);
-            
+            if(store.categories != null){
+                var store_category = store.categories;
+                var a = store_category.indexOf(category_id);
+            }
             if (a > -1){
                 if (count == 0){
                     store.show  = "display:block"; 
-                }else{
+                } else {
                     store.show  = "display:none"; 
                 }
                 store.header = category_name;
