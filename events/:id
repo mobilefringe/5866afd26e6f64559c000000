@@ -15,7 +15,7 @@
                 <span class="promo_date">{{dates}}</span>
 				<p>{{{rich_description}}}</p>
 		    </div>
-            <img styel="{{promo_image_show}}" alt="Promo Image" src="{{event_image_url_abs}}" />   		
+            <img style="{{promo_image_show}}" alt="Promo Image" src="{{event_image_url_abs}}" />   		
         </script>
     </div>
 </div>
