@@ -2107,11 +2107,11 @@ td.stores_pin{
 
 /* ***PROPERTY CSS*** */
 .brand_nav{
-    background-color: #5099b6;
+    background-color: black;
     position:relative;
 }
 .promo_date {
-    color: #5099b6;
+    color: black;
     font-family: futura_condensed;
     font-size: 18pt;
 }
@@ -2131,7 +2131,7 @@ td.stores_pin{
 }
 
 .feature_label, .long_feature_label {
-    background-color: #5099b6;
+    background-color: black;
 }
 
 ul.store_tabs{
@@ -2146,11 +2146,11 @@ ul.store_tabs li a,
 ul.store_tabs li a:hover,
 ul.store_tabs li.active a,
 ul.store_tabs li.active a:hover{
-    background-color: #5099b6;
+    background-color: black;
 }
 
 .stores_table_headers{
-    background-color: #5099b6;
+    background-color: black;
 }
 
 .stores_table_headers .pull-right{
@@ -2161,14 +2161,14 @@ ul.store_tabs li.active a:hover{
     border-bottom-color: #ededed;
 }
 .store_btn {
-    background-color: #5099b6;    
+    background-color: black;    
 }
 .controls{
-    background-color: #5099b6;
+    background-color: black;
 }
 
 .mobile_header .background_bar{
-    background-color: #5099b6;
+    background-color: black;
 }
 .blogpost h1 a:hover {
     text-decoration: none;
@@ -2195,5 +2195,5 @@ ul.store_tabs li.active a:hover{
     position: relative;
 }
 .social_icon {
-    color: #5099b6;
+    color: black;
 }
