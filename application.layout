@@ -102,6 +102,9 @@
                         <li class="mobile_menu_item">
                           <a href='/pages/tecumseh-contact-us'>Contact Us</a>
                         </li>
+                        <li class="mobile_menu_item">
+                          <a href='/pages/tecumseh-act-green-initiatives'>ACT Green Initiatives</a>
+                        </li>
                         <!--<li class="mobile_menu_header" >-->
                         <!--    <a href='/posts' >BLOG</a>-->
                         <!--</li> -->
@@ -178,6 +181,9 @@
                             </li>
                             <li>
                                 <a class="nav_a" href='/pages/tecumseh-contact-us' target='_self'><span>Contact Us</span></a>                            
+                            </li>
+                            <li>
+                                <a class="nav_a" href='/pages/tecumseh-act-green-initiatives' target='_self'><span>ACT Green Initiatives</span></a>                            
                             </li>
                         </ul>
                     </li>
@@ -374,6 +380,8 @@
                                 <a class="site_map_submenu" href='/pages/tecumseh-accessibility' target='_self'>Accessibility</a>
                                 <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/pages/tecumseh-contact-us' target='_self'>Contact Us</a>
+                                 <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
+                                <a class="site_map_submenu" href='/pages/tecumseh-contact-us' target='_self'>ACT Green Initiatives</a>
                             </div>
                             <!--<div class="nav_sitemap_item">-->
                             <!--    <span class="site_map_title">-->
