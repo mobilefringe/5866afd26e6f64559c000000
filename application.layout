@@ -105,9 +105,10 @@
                         <li class="mobile_menu_item">
                           <a href='/pages/tecumseh-act-green-initiatives'>ACT Green Initiatives</a>
                         </li>
-                        <!--<li class="mobile_menu_header" >-->
-                        <!--    <a href='/posts' >BLOG</a>-->
-                        <!--</li> -->
+                        
+                        <li class="mobile_menu_header" >
+                            <a href='/posts' >BLOG</a>
+                        </li> 
                     </ul>
                     <a id="mobile_logo" href="/">
                         <img class="mobile_logo" ALT="mobile_logo" src="//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497620335000/tecumseh_logo.png"/>
@@ -187,9 +188,9 @@
                             </li>
                         </ul>
                     </li>
-                    <!--<li>                        -->
-                    <!--    <button class="btn-nav" onclick="window.location.href='/posts'">BLOG</button>-->
-                    <!--</li>-->
+                    <li>                        
+                        <button class="btn-nav" onclick="window.location.href='/posts'">BLOG</button>
+                    </li>
                 </ul>
                 <hr>
 		   	</div>                 
@@ -383,11 +384,11 @@
                                  <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/pages/tecumseh-act-green-initiatives' target='_self'>ACT Green Initiatives</a>
                             </div>
-                            <!--<div class="nav_sitemap_item">-->
-                            <!--    <span class="site_map_title">-->
-                            <!--        <a href="/posts">BLOG</a>-->
-                            <!--    </span>-->
-                            <!--</div>-->
+                            <div class="nav_sitemap_item">
+                                <span class="site_map_title">
+                                    <a href="/posts">BLOG</a>
+                                </span>
+                            </div>
                         </div>
                     </div>
                     <div class="line_break hidden-xs"></div>
