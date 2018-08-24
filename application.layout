@@ -165,7 +165,7 @@
                                     <script type="text/javascript">
                                         var m = false;
                                         function googleTranslateElementInit() {
-                                            new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT, gaTrack: true, gaId: 'UA-XXXXXX-1'}, 'google_translate_element');
+                                            new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT, gaTrack: true, gaId: 'UA-40014802-26'}, 'google_translate_element');
                             
                                             setTimeout(function(){
                                                 if (jQuery( window ).width() < 768){
