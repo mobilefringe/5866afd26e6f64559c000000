@@ -179,7 +179,7 @@
                                         jQuery( window ).resize(function() {
                                             if (jQuery( window ).width() < 768 && m == false){
                                                 m = true;
-                                                jQuery('#g_translater').detach().appendTo('#m_google_translate_element');                            
+                                                jQuery('#g_translater').detach().appendTo('#google_translate_element_m');                            
                                             } else if (jQuery( window ).width() >= 768 && m == true){
                                                 m = false;
                                                 jQuery('#g_translater').detach().prependTo('#mobileHeader');                            
