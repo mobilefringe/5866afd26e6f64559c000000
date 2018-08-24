@@ -48,7 +48,7 @@ body:after {
     display: none;
 }
 .google_translate_container{
-    height:40px;
+    height:16px;
 }
 /* *** LOADER *** */
 .loader_backdrop{
