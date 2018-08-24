@@ -85,13 +85,13 @@
             <!-- iphone header -->
             <div class="visible-xs-block mobile_header top_nav row-fluid" >        
                 <div class="">
-                    <div id="google_translate_element_m"></div>
-                    <script type="text/javascript">
-                        function googleTranslateElementMobileInit() {
-                          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,fr,zh-CN,zh-TW,es,tl', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-40014802-26'}, 'google_translate_element_m');
-                        }
-                    </script>
-                    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementMobileInit"></script>
+                    <!--<div id="google_translate_element_m"></div>-->
+                    <!--<script type="text/javascript">-->
+                    <!--    function googleTranslateElementMobileInit() {-->
+                    <!--      new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,fr,zh-CN,zh-TW,es,tl', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-40014802-26'}, 'google_translate_element_m');-->
+                    <!--    }-->
+                    <!--</script>-->
+                    <!--<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementMobileInit"></script>-->
                 </div>
                 <div class="background_bar"></div>
                     <button type="button" data-toggle="dropdown" class="pull-right">
