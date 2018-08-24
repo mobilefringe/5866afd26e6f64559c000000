@@ -49,7 +49,7 @@ body:after {
 }
 .google_translate_container{
     height:26px;
-        margin-top: 7px;
+    margin-top: 7px;
 }
 /* *** LOADER *** */
 .loader_backdrop{
@@ -231,7 +231,7 @@ a:hover {
 }
 
 #google_translate_element{
-    margin-top:2px;
+    margin-top:5px;
     margin-right: 20px;
     .goog-te-gadget-simple {
         height:26px;
