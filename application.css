@@ -49,6 +49,7 @@ body:after {
 }
 .google_translate_container{
     height:26px;
+        margin-top: 7px;
 }
 /* *** LOADER *** */
 .loader_backdrop{
