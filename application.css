@@ -2058,6 +2058,9 @@ td.stores_pin{
         float: none;
         padding: 0;
     }
+    .header{
+        height:90px;
+    }
 }
 
 @media (max-width: 800px)  and (-webkit-min-device-pixel-ratio:0) {
