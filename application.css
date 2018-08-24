@@ -225,6 +225,9 @@ a:hover {
 
 #google_translate_element{
     margin-top:2px;
+    .goog-te-gadget-simple {
+        height:26px;
+    }
 }
 .brand_nav{
     height: 36px;
