@@ -59,62 +59,62 @@
         <div class="header">
             <!-- iphone header -->
             <div class="visible-xs-block mobile_header top_nav row-fluid" >        
-                    <div class="background_bar"></div>
-                    <button type="button" data-toggle="dropdown" class="pull-right">
-                        <i class="fa fa-align-justify fa-lg"></i>
-                    </button>
-                    <ul class="dropdown-menu bottom">                                
-                        <li class="mobile_menu_header" >
-                            <a href='' >STORES</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                            <a href='/stores'>Store Directory</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                            <a href='/map'>Shopping Map</a>
-                        </li>
-                        <li class="mobile_menu_header" >
-                            <a href='/promotions' >PROMOTIONS</a>
-                        </li>
-                        <li class="mobile_menu_header" >
-                            <a href='/events' >EVENTS</a>
-                        </li>
-                        <li class="mobile_menu_header" >
-                            <a href='/pages/tecumseh-customer-service' >GUEST SERVICES</a>
-                        </li>      
-                        <li class="mobile_menu_header" >
-                            <a href='/jobs' >CAREERS</a>
-                        </li>         
-                        <li class="mobile_menu_header" >
-                            <a href='' >ABOUT US</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                            <a href='/hours'>Shopping Hours</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                            <a href='/pages/tecumseh-specialty-leasing'>Leasing</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                            <a href='/pages/tecumseh-mall-info'>Mall Info</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                            <a href='/pages/tecumseh-accessibility'>Accessibility</a>
-                        </li>        
-                        <li class="mobile_menu_item">
-                          <a href='/pages/tecumseh-contact-us'>Contact Us</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                          <a href='/pages/tecumseh-act-green-initiatives'>ACT Green Initiatives</a>
-                        </li>
-                        
-                        <li class="mobile_menu_header" >
-                            <a href='/posts' >BLOG</a>
-                        </li> 
-                    </ul>
-                    <a id="mobile_logo" href="/">
-                        <img class="mobile_logo" ALT="mobile_logo" src="//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497620335000/tecumseh_logo.png"/>
-                    </a>
-                </div>
+                <div class="background_bar"></div>
+                <button type="button" data-toggle="dropdown" class="pull-right">
+                    <i class="fa fa-align-justify fa-lg"></i>
+                </button>
+                <ul class="dropdown-menu bottom">                                
+                    <li class="mobile_menu_header" >
+                        <a href='' >STORES</a>
+                    </li>
+                    <li class="mobile_menu_item">
+                        <a href='/stores'>Store Directory</a>
+                    </li>
+                    <li class="mobile_menu_item">
+                        <a href='/map'>Shopping Map</a>
+                    </li>
+                    <li class="mobile_menu_header" >
+                        <a href='/promotions' >PROMOTIONS</a>
+                    </li>
+                    <li class="mobile_menu_header" >
+                        <a href='/events' >EVENTS</a>
+                    </li>
+                    <li class="mobile_menu_header" >
+                        <a href='/pages/tecumseh-customer-service' >GUEST SERVICES</a>
+                    </li>      
+                    <li class="mobile_menu_header" >
+                        <a href='/jobs' >CAREERS</a>
+                    </li>         
+                    <li class="mobile_menu_header" >
+                        <a href='' >ABOUT US</a>
+                    </li>
+                    <li class="mobile_menu_item">
+                        <a href='/hours'>Shopping Hours</a>
+                    </li>
+                    <li class="mobile_menu_item">
+                        <a href='/pages/tecumseh-specialty-leasing'>Leasing</a>
+                    </li>
+                    <li class="mobile_menu_item">
+                        <a href='/pages/tecumseh-mall-info'>Mall Info</a>
+                    </li>
+                    <li class="mobile_menu_item">
+                        <a href='/pages/tecumseh-accessibility'>Accessibility</a>
+                    </li>        
+                    <li class="mobile_menu_item">
+                      <a href='/pages/tecumseh-contact-us'>Contact Us</a>
+                    </li>
+                    <li class="mobile_menu_item">
+                      <a href='/pages/tecumseh-act-green-initiatives'>ACT Green Initiatives</a>
+                    </li>
+                    
+                    <li class="mobile_menu_header" >
+                        <a href='/posts' >BLOG</a>
+                    </li> 
+                </ul>
+                <a id="mobile_logo" href="/">
+                    <img class="mobile_logo" ALT="mobile_logo" src="//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497620335000/tecumseh_logo.png"/>
+                </a>
+            </div>
                 <!-- iphone header END --> 
                 <!--Top Nav Dynamic-->
                 <div class="hidden-xs top_nav custom_dropdown full_header">
