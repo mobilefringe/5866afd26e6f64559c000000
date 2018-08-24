@@ -38,6 +38,9 @@ body {
     font-size: 12pt;
     color:black;
     background-color:white;
+    .goog-te-banner-frame {
+        display:none!important;
+    }
 }
 body:after {
     content: url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/png/1478472594000/close.png) url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/gif/1478472594000/loading.gif) url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/png/1478472594000/prev.png) url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/png/1478472594000/next.png);
@@ -225,7 +228,7 @@ a:hover {
 
 #google_translate_element{
     margin-top:2px;
-        margin-right: 20px;
+    margin-right: 20px;
     .goog-te-gadget-simple {
         height:26px;
     }
