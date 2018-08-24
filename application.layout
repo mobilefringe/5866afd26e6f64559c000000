@@ -161,8 +161,10 @@
                                     </select>
                                 </div>  
                                 <div class="pull-right">
-                                    <div id="g_translater">
+                                    <div>
+                                        <div id="g_translater">
                                         <div id="google_translate_element"></div>
+                                    </div>
                                     </div>
                                     <script type="text/javascript">
                                         var m = false;
@@ -172,7 +174,7 @@
                                             setTimeout(function(){
                                                 if (jQuery( window ).width() < 768){
                                                     m = true;
-                                                    jQuery('#g_translater').detach().appendTo('#m_google_translate_element');                            
+                                                    jQuery('#g_translater').detach().appendTo('#google_translate_element_m');                            
                                                 }
                                             }, 3000);
                                         }
