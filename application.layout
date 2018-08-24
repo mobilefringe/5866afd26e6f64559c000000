@@ -172,19 +172,19 @@
                                             new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT, gaTrack: true, gaId: 'UA-40014802-26'}, 'google_translate_element');
                             
                                             setTimeout(function(){
-                                                if (jQuery( window ).width() < 768){
+                                                if ($( window ).width() < 768){
                                                     m = true;
-                                                    jQuery('#g_translater').detach().appendTo('#google_translate_element_m');                            
+                                                    $('#g_translater').detach().appendTo('#google_translate_element_m');                            
                                                 }
                                             }, 3000);
                                         }
-                                        jQuery( window ).resize(function() {
-                                            if (jQuery( window ).width() < 768 && m == false){
+                                        $( window ).resize(function() {
+                                            if ($( window ).width() < 768 && m == false){
                                                 m = true;
-                                                jQuery('#g_translater').detach().appendTo('#google_translate_element_m');                            
+                                                $('#g_translater').detach().appendTo('#google_translate_element_m');                            
                                             } else if (jQuery( window ).width() >= 768 && m == true){
                                                 m = false;
-                                                jQuery('#g_translater').detach().prependTo('#mobileHeader');                            
+                                                $('#g_translater').detach().prependTo('#desktopHeader');                            
                                             }
                                         });
                                         /*!
