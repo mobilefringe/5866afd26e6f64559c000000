@@ -224,7 +224,7 @@ a:hover {
 }
 
 #google_translate_element{
-    
+    margin-top:2px;
 }
 .brand_nav{
     height: 36px;
@@ -250,7 +250,7 @@ a:hover {
     border: none;
     border-radius: 0 0 0 0;
     height: 26px;
-    margin-top: 5px;
+    margin-top: 2px;
     padding: 3px 5px;
     width: 250px;
     -webkit-appearance: none;
