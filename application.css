@@ -225,6 +225,7 @@ a:hover {
 
 #google_translate_element{
     margin-top:2px;
+        margin-right: 20px;
     .goog-te-gadget-simple {
         height:26px;
     }
