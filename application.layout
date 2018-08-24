@@ -59,7 +59,7 @@
             <!-- iphone header -->
             <div class="visible-xs-block mobile_header top_nav row-fluid" >        
                 <div class="">
-                    <div id="google_translate_element"></div>
+                    <div id="google_translate_element_m"></div>
                     
                 </div>
                 <div class="background_bar"></div>
