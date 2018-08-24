@@ -47,7 +47,9 @@ body:after {
     content: url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/png/1478472594000/close.png) url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/gif/1478472594000/loading.gif) url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/png/1478472594000/prev.png) url(//codecloud.cdn.speedyrails.net/sites/584ed7876e6f643ecd000000/image/png/1478472594000/next.png);
     display: none;
 }
-
+.google_translate_container{
+    height:26px;
+}
 /* *** LOADER *** */
 .loader_backdrop{
     padding-top: 10%;
