@@ -62,7 +62,7 @@
                     <div id="google_translate_element_m"></div>
                     <script type="text/javascript">
                         function googleTranslateElementInit() {
-                          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,fr,zh-CN,zh-TW,es,tl', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-40014802-26'}, 'google_translate_element');
+                          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,fr,zh-CN,zh-TW,es,tl', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-40014802-26'}, 'google_translate_element_m');
                         }
                         /*!
                          * Capture Analytics for Google Translate
