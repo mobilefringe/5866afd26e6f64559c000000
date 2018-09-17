@@ -14,10 +14,10 @@
                         <label for="postal_pop_up" >Postal Code</label>
                         <input id="postal_pop_up" type="text" name=cm-f-ydltut>
                         
-                        <label>
+                        <p>
                             <label for="agree_pop_up"></label>
                             <input type="checkbox" required class="info_check" id="agree_pop_up" /> I agree to receive newsletters from Tecumseh Mall
-                        </label>
+                        </p>
                         <br /> 
                         <button class="btn btn-success">Subscribe</button>                      
                         <br /><br/>
