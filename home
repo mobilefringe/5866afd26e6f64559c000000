@@ -8,15 +8,15 @@
                         <label for="name_pop_up">Name</label>
                         <input id="name_pop_up" type="text" name=cm-name>
                         
-                        <label for="fieldEmail">Email*</label>
-                        <input id="fieldEmail" name=cm-ykbc-ykbc type="email" required/>  
+                        <label for="email_pop_up">Email*</label>
+                        <input id="email_pop_up" name=cm-ykbc-ykbc type="email" required/>  
                         
                         <label for="postal_pop_up" >Postal Code</label>
                         <input id="postal_pop_up" type="text" name=cm-f-ydltut>
                         
                         <label>
-                            <label for="agree_terms"></label>
-                            <input type="checkbox" required class="info_check" id="agree" /> I agree to receive newsletters from Tecumseh Mall
+                            <label for="agree_pop_up"></label>
+                            <input type="checkbox" required class="info_check" id="agree_pop_up" /> I agree to receive newsletters from Tecumseh Mall
                         </label>
                         <br /> 
                         <button class="btn btn-success">Subscribe</button>                      
