@@ -58,12 +58,13 @@
         <!--Header -->
         <div class="header">
             <!-- iphone header -->
-            <div class="visible-xs-block mobile_header top_nav row-fluid" >        
+            <div class="visible-xs-block mobile_header top_nav row-fluid">        
                 <div class="background_bar"></div>
                 <div class="google_translate_container">
                     <div id="google_translate_element_m"></div>
                 </div>
                 <button type="button" data-toggle="dropdown" class="pull-right">
+                    <p style="display: none">Mobile Menu Toggle</p>
                     <i class="fa fa-align-justify fa-lg"></i>
                 </button>
                 <ul class="dropdown-menu bottom">                                
