@@ -502,6 +502,7 @@ legend{
     color: black;
 }
 .newsletter_box p {
+    font-family: futura_medium, Helvetica, sans-serif;
     font-weight: lighter;
     padding: 5px 0px 10px;
     display: block;
