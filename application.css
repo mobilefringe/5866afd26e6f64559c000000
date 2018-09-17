@@ -505,7 +505,7 @@ legend{
     font-weight: lighter;
     padding: 5px 0px 10px;
     display: block;
-    color: gray;
+    color: #6d6d6d;
     font-size: 0.8em;
 }
 .newsletter_box #fieldEmail {
