@@ -346,20 +346,20 @@
                     </div>
                     <div class="newsletter_box">
                         <form action="https://mobilefringe.createsend.com/t/d/s/ykbc/" method="post" id="subForm">
-                            <label for="newsletter_box_id">
+                            <span>
                                 <i class="fa fa-envelope social_icon" aria-hidden="true"></i>
                                 SUBSCRIBE AND GET UPDATES
-                            </label>                
-                            <span>
+                            </span>                
+                            <p>
                                 Subscribe to our newsletter and get exclusive deals you won't find anywhere else straight to your inbox!
-                            </span>
+                            </p>
                             <label for="fieldEmail" style="display:none"> subscribe email </label>
                             <input id="fieldEmail" name=cm-ykbc-ykbc type="email" required placeholder="Your Email" />  
-                            <span>
+                            <p>
                                 <label style="display:none" for="agree_terms">Subscribe</label>
-                                    <input type="checkbox" required class="info_check" id="agree_terms" /> I agree to receive newsletters from Tecumseh Mall
+                                <input type="checkbox" required class="info_check" id="agree_terms" /> I agree to receive newsletters from Tecumseh Mall
                                 
-                            </span>
+                            </p>
             				<br />						
                             <button class="btn">Subscribe</button>                      
                             <br />
