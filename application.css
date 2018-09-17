@@ -594,8 +594,9 @@ legend{
     padding:5px 0px;
 }
 .bottom_nav .nav_site_map .site_map_title{
+    font-family: futura_medium, Helvetica, sans-serif;
     font-weight: bolder;
-    display:block;
+    display: block;
     text-align: left;
 }
 .bottom_nav .nav_site_map .site_map_submenu{
