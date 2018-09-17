@@ -292,7 +292,7 @@
                                 {%raw%}
                                 <span class="feature_label">{{name}}</span>
                                 <a href="{{url}}">
-                                    <img alt="feature_image" src="{{image_url}}" />
+                                    <img alt="{{name}}" src="{{image_url}}" />
                                 </a>
                                 {%endraw%}
                             </script>
