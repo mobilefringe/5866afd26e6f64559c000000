@@ -8,7 +8,7 @@
                 <p>{{publish_date}} {{#author}}+ {{author}}{{/author}}</p>
                 <img src="{{image_url}}" alt="{{title}}"/>
                 <p class="blogpost_content">{{body}}</p>
-                <a href='/posts/{{slug}}' class="readmore">Read More</a>
+                <a href='/posts/{{slug}}' class="readmore">View Post Detailse</a>
             </div>
             <div class="line_break"></div>
         </script>
