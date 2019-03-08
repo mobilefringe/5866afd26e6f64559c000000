@@ -15,7 +15,7 @@
                         <input id="postal_pop_up" type="text" name=cm-f-ydltut>
             
                         <label for="agree_terms"></label>
-                        <input type="checkbox" required class="info_check" id="agree" /> I agree to receive newsletters from Tecumseh Mall
+                        <input type="checkbox" required class="info_check" id="agree_terms" /> I agree to receive newsletters from Tecumseh Mall
                         <br /> 
                         <button class="btn btn-success">Subscribe</button>                      
                         <br /><br/>
