@@ -352,7 +352,6 @@
                             <p>Subscribe to our newsletter and get exclusive deals you won't find anywhere else straight to your inbox!
                             </p>
                             <p>
-                                <label for="fieldEmail" style="display:none"> subscribe email </label>
                                 <input title="Email" id="fieldEmail" name=cm-ykbc-ykbc type="email" required placeholder="Your Email" />  
                             </p>
                             <p>
