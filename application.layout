@@ -385,7 +385,7 @@
                 
                 <div class="col-sm-6 col-md-4">
                     <div class="hidden-xs special_box">
-                        <span class="twitter_id">               
+                        <span class="icon_title">               
                             <i class="fa fa-twitter social_icon" aria-hidden="true"></i>
                             TWITTER                
                         </span>
