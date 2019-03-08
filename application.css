@@ -476,6 +476,13 @@ legend{
 .bottom_nav .container-fluid{
     padding: 0px 15px 15px;
 }
+
+.bottom_nav span {
+    color: black;
+    font-size:1.5em;
+    line-height:1.5em;
+    font-family: futura_condensed;
+}
 .bottom_nav label{
     color: black;
     font-size:1.5em;
