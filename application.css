@@ -2133,6 +2133,9 @@ td.stores_pin{
 
 #agree_terms{
     margin: -4px 0 0;    
+    p {
+        display: none;
+    }
 }
 
 /* ***PROPERTY CSS*** */
