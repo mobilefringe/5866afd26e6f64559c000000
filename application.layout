@@ -353,7 +353,7 @@
                             </p>
                             <p>
                                 <label for="fieldEmail" style="display:none"> subscribe email </label>
-                                <input id="fieldEmail" name=cm-ykbc-ykbc type="email" required placeholder="Your Email" />  
+                                <input title="Email" id="fieldEmail" name=cm-ykbc-ykbc type="email" required placeholder="Your Email" />  
                             </p>
                             <p>
                                 <label style="display:none" for="agree_terms">Subscribe</label>
