@@ -1717,6 +1717,10 @@ td.stores_pin{
     line-height: 1.1em;
 }
 
+#dropdown_button {
+    display: none;
+}
+
 .mobile_header .dropdown-menu{
     width: 100%;
     left: 0%;
