@@ -1173,6 +1173,11 @@ a.btn-prime {
     // display: block;
     font-family: inherit;
 }
+.hour_info .mobile_title {
+    display: inline-block;
+    max-width: 100%;
+    font-weight: 700;
+}
 .hour_info a {
     text-decoration: none;
 }
