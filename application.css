@@ -483,12 +483,6 @@ legend{
     line-height:1.5em;
     font-family: futura_condensed;
 }
-.bottom_nav label{
-    color: black;
-    font-size:1.5em;
-    line-height:1.5em;
-    font-family: futura_condensed;
-}
 .bottom_nav label img{
     float:left;
     margin-right:10px;
