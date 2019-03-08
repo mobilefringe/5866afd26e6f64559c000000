@@ -356,7 +356,6 @@
                             </p>
                             <p>
                                 <input title="agree_terms" type="checkbox" required class="info_check" id="agree_terms" /> I agree to receive newsletters from Tecumseh Mall
-                                
                             </p>
             				<br />						
                             <button class="btn">Subscribe</button>                      
