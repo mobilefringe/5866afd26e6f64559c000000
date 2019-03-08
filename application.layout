@@ -263,7 +263,7 @@
                 <div class="col-md-3">
                     <div class="hour_box">  
                         <div class="hour_info">
-                            <span class="feature_label">HOURS TODAY</span>
+                            <span class="feature_label mobile_title">HOURS TODAY</span>
                             <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                             <div id="home_hours_container" class="home_hours_info">
                                 <script id="home_hours_template" type="x-tmpl-mustache/text">
