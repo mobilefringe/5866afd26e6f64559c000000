@@ -1676,6 +1676,9 @@ td.stores_pin{
 .social_links_mobile {
     margin-top: 30px;
     text-align: center;
+    p {
+        display: none;
+    }
 }
 .social_links_mobile img{
     padding: 0px;    
