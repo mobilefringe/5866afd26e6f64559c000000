@@ -25,7 +25,7 @@
                         <img src="//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497038419000/btn_promo.png" alt="Promo" />
                     </a>
                     <a href="#job" class="pull-right hidden_now" id="job_show">
-                        <img src="//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497369916000/btn_job.png" />
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5866afd26e6f64559c000000/image/png/1497369916000/btn_job.png" alt="Job" />
                     </a> 
                 </h1>
                 <hr>
