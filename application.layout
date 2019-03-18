@@ -425,7 +425,7 @@
                                 </span>
                             </div>
                             <div class="nav_sitemap_item">
-                                <span class="site_map_title">ABOUT US</span>
+                                <!--<span class="site_map_title">ABOUT US</span>-->
                                 <a class="site_map_submenu" href='/hours' target='_self'>Shopping Hours</a>
                                 <a class="site_map_submenu" href='/pages/tecumseh-specialty-leasing' target='_self'>Leasing</a>
                                 <a class="site_map_submenu" href='/pages/tecumseh-mall-info' target='_self'>Mall Info</a>
