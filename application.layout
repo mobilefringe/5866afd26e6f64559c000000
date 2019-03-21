@@ -350,9 +350,9 @@
                                 SUBSCRIBE AND GET UPDATES
                             <p>Subscribe to our newsletter and get exclusive deals you won't find anywhere else straight to your inbox!
                             </p>
-                            <!--<label for="fieldEmail">Email</label>-->
+                            <label for="fieldEmail">Email</label>
                             <input id="fieldEmail" name=cm-ykbc-ykbc type="email" required placeholder="Your Email" />  
-                            <!--<label for="agree_terms">Agree Terms</label>-->
+                            <label for="agree_terms">Agree Terms</label>
                             <input type="checkbox" required class="info_check" id="agree_terms" /> I agree to receive newsletters from Tecumseh Mall
             				<br />						
                             <button class="btn">Subscribe</button>                      
