@@ -355,7 +355,7 @@
                                 <input id="fieldEmail" name=cm-ykbc-ykbc type="email" required placeholder="Your Email" />  
                             </p>
                             <p>
-                                <!--<label for="agree_terms">Agree Terms</label>-->
+                                <label for="agree_terms">Agree Terms</label>
                                 <input type="checkbox" required class="info_check" id="agree_terms" /> I agree to receive newsletters from Tecumseh Mall
                             </p>
             				<br />						
