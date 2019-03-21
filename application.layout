@@ -346,7 +346,7 @@
                     </div>
                     <div class="newsletter_box">
                         <form action="https://mobilefringe.createsend.com/t/d/s/ykbc/" method="post" id="subForm">
-                            <!--<label for="fieldEmail">Email</label>-->
+                            <label for="fieldEmail">Email</label>
                             <i class="fa fa-envelope social_icon" aria-hidden="true"></i>
                                 SUBSCRIBE AND GET UPDATES
                             <p>Subscribe to our newsletter and get exclusive deals you won't find anywhere else straight to your inbox!
