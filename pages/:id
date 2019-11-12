@@ -3,7 +3,7 @@
         text-align: center;
     }
     strong {
-        font-weight: bold;
+        font-weight: bold !important;
     }
 </style>
 <div class="page_body">
