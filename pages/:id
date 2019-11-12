@@ -2,9 +2,6 @@
     #error_msg {
         text-align: center;
     }
-    strong {
-        font-weight: bold !important;
-    }
 </style>
 <div class="page_body">
     <h1 class="page_title" id="page_title"></h1>
